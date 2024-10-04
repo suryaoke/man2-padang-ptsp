@@ -1,3 +1,9 @@
+![alt text](https://github.com/suryaoke/man2-padang-ptsp/blob/main/public/ptstp%20login.png?raw=true)
+
+![alt text](https://github.com/suryaoke/man2-padang-ptsp/blob/main/public/dashaboard%20PTSP.png?raw=true)
+
+![alt text](https://github.com/suryaoke/man2-padang-ptsp/blob/main/public/surat.png?raw=true)
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
